@@ -1,0 +1,201 @@
+ID,user_id,amount,timestamp,payment_method,is_fraud,first_name,last_name,email,account_created,national_id,internal_notes,City,Country
+TXN00000,CUST0017,7656.21,16/09/2024 12:00:00,Cash,0.00,themba,ndlovu,t****@example.co.za,02/04/2024 16:00:00,159XXXXXXXXXXXXXXXXX,,Polokwane,South Africa
+TXN00001,CUST0024,5249.60,14/06/2023 18:00:00,Mobile_Payment,1.00,bongani,ngcobo,b****@example.co.za,15/09/2020 01:00:00,124XXXXXXXXXXXXXXXXX,note_24,Pietermaritzburg,South Africa
+TXN00002,CUST0029,4455.07,11/04/2023 10:00:00,Mobile_Payment,0.00,palesa,mthembu,p****@example.co.za,17/08/2020 03:45:00,947XXXXXXXXXXXXXXXXX,note_29,Johannesburg,South Africa
+TXN00003,CUST0009,5707.86,23/03/2025 11:00:00,Card,0.00,naledi,nkosi,n****@example.co.za,24/07/2022 03:00:00,108XXXXXXXXXXXXXXXXX,note_9,Kimberley,South Africa
+TXN00004,CUST0019,9603.08,16/05/2024 08:00:00,Card,0.00,jabu,gumede,j****@example.co.za,07/08/2020 02:00:00,367XXXXXXXXXXXXXXXXX,note_19,Pietermaritzburg,South Africa
+TXN00005,cust0003,7639.23,19/03/2024 15:00:00,Cash,0.00,themba,mahlangu,t****@example.co.za,15/11/2021 13:00:00,030XXXXXXXXXXXXXXXXX,note_3,Bloemfontein,South Africa
+TXN00006,CUST0008,6621.26,26/05/2023 02:00:00,Cash,0.00,nokuthula,motsepe,n****@example.co.za,25/10/2024 09:00:00,763XXXXXXXXXXXXXXXXX,note_8,Pretoria,South Africa
+TXN00007,CUST0007,1779.44,26/12/2023 12:00:00,Card,0.00,lebohang,gumede,l****@example.co.za,,315XXXXXXXXXXXXXXXXX,,Pretoria,South Africa
+TXN00008,CUST0005,76.62,30/07/2024 23:00:00,Mobile_Payment,0.00,mpho,ntuli,m****@example.co.za,09/01/2023 12:00:00,048XXXXXXXXXXXXXXXXX,note_5,Nelspruit,South Africa
+TXN00009,CUST0022,5958.42,04/08/2024 22:00:00,Bank_Transfer,0.00,lindiwe,ntuli,l****@example.co.za,30/10/2024 01:22:00,656XXXXXXXXXXXXXXXXX,note_22,Johannesburg,South Africa
+TXN00010,CUST9999,374.77,06/03/2024 10:00:00,Bank_Transfer,0.00,,,,,,,,
+TXN00011,CUST0022,2863.05,23/03/2024 12:00:00,Mobile_Payment,1.00,lindiwe,ntuli,l****@example.co.za,30/10/2024 01:22:00,656XXXXXXXXXXXXXXXXX,note_22,Johannesburg,South Africa
+TXN00012,CUST0002,6889.48,18/06/2023 22:00:00,Bank_Transfer,0.00,bongani,motsepe,b****@example.co.za,29/06/2020 01:00:00,034XXXXXXXXXXXXXXXXX,note_2,Cape Town,South Africa
+TXN00013,CUST0025,7922.92,19/11/2023 09:00:00,Cash,0.00,lebohang,mabaso,l****@example.co.za,08/02/2021 06:00:00,716XXXXXXXXXXXXXXXXX,note_25,Polokwane,South Africa
+TXN00014,CUST0013,1192.02,06/11/2024 10:00:00,Cash,0.00,mpho,ndlovu,m****@example.co.za,10/09/2020 13:00:00,348XXXXXXXXXXXXXXXXX,note_13,Bloemfontein,South Africa
+TXN00015,CUST0020,1532.44,16/07/2024 20:00:00,Bank_Transfer,0.00,kgomotso,msimang,k****@example.co.za,22/07/2023 06:46:00,727XXXXXXXXXXXXXXXXX,note_20,Kimberley,South Africa
+TXN00016,CUST0026,1465.25,28/03/2025 17:00:00,Card,0.00,nokuthula,zwane,n****@example.co.za,14/09/2024 13:00:00,752XXXXXXXXXXXXXXXXX,note_26,Johannesburg,South Africa
+TXN00017,CUST0005,7936.65,03/02/2025 02:00:00,Bank_Transfer,0.00,mpho,ntuli,m****@example.co.za,09/01/2023 12:00:00,048XXXXXXXXXXXXXXXXX,note_5,Nelspruit,South Africa
+TXN00018,CUST0014,1287.32,10/05/2023 17:00:00,Bank_Transfer,0.00,tshepo,maponya,t****@example.co.za,20/08/2024 16:00:00,982XXXXXXXXXXXXXXXXX,note_14,Bloemfontein,South Africa
+TXN00019,CUST0022,4054.96,11/09/2023 15:00:00,Bank_Transfer,0.00,lindiwe,ntuli,l****@example.co.za,30/10/2024 01:22:00,656XXXXXXXXXXXXXXXXX,note_22,Johannesburg,South Africa
+TXN00020,CUST0016,5422.82,21/02/2025 02:00:00,Mobile_Payment,0.00,lebohang,zwane,l****@example.co.za,22/11/2023 06:00:00,501XXXXXXXXXXXXXXXXX,,Kimberley,South Africa
+TXN00021,CUST0002,6000.46,02/10/2024 16:00:00,Mobile_Payment,0.00,bongani,motsepe,b****@example.co.za,29/06/2020 01:00:00,034XXXXXXXXXXXXXXXXX,note_2,Cape Town,South Africa
+TXN00022,CUST0023,3257.10,19/02/2024 23:00:00,Bank_Transfer,0.00,zanele,pule,z****@example.co.za,18/03/2023 23:49:00,417XXXXXXXXXXXXXXXXX,note_23,Polokwane,South Africa
+TXN00023,CUST0000,958.70,30/04/2025 04:00:00,Card,0.00,kabelo,dlamini,k****@example.co.za,20/02/2023 13:00:00,332XXXXXXXXXXXXXXXXX,note_0,Port Elizabeth,South Africa
+TXN00024,CUST0024,6739.20,29/02/2024 02:00:00,Bank_Transfer,0.00,bongani,ngcobo,b****@example.co.za,15/09/2020 01:00:00,124XXXXXXXXXXXXXXXXX,note_24,Pietermaritzburg,South Africa
+TXN00025,CUST0018,,24/04/2024 02:00:00,Cash,0.00,mpho,ndlovu,m****@example.co.za,02/12/2021 04:55:00,957XXXXXXXXXXXXXXXXX,note_18,Pietermaritzburg,South Africa
+TXN00026,CUST0015,5213.69,28/03/2024 14:00:00,Mobile_Payment,0.00,sipho,ngcobo,s****@example.co.za,31/01/2025 11:00:00,634XXXXXXXXXXXXXXXXX,note_15,Bloemfontein,South Africa
+TXN00027,CUST0029,2817.66,17/03/2024 09:00:00,Mobile_Payment,0.00,palesa,mthembu,p****@example.co.za,17/08/2020 03:45:00,947XXXXXXXXXXXXXXXXX,note_29,Johannesburg,South Africa
+TXN00028,CUST0020,8151.74,14/12/2024 08:00:00,Card,0.00,kgomotso,msimang,k****@example.co.za,22/07/2023 06:46:00,727XXXXXXXXXXXXXXXXX,note_20,Kimberley,South Africa
+TXN00029,CUST0015,3512.21,10/05/2023 12:00:00,Bank_Transfer,0.00,sipho,ngcobo,s****@example.co.za,31/01/2025 11:00:00,634XXXXXXXXXXXXXXXXX,note_15,Bloemfontein,South Africa
+TXN00030,CUST0010,6717.83,11/07/2024 06:00:00,Cash,0.00,themba,cele,t****@example.co.za,29/12/2022 16:00:00,430XXXXXXXXXXXXXXXXX,note_10,Pretoria,South Africa
+TXN00031,CUST0010,4145.87,02/11/2024 02:00:00,Mobile_Payment,0.00,themba,cele,t****@example.co.za,29/12/2022 16:00:00,430XXXXXXXXXXXXXXXXX,note_10,Pretoria,South Africa
+TXN00032,CUST0009,6642.71,16/11/2024 08:00:00,Mobile_Payment,0.00,naledi,nkosi,n****@example.co.za,24/07/2022 03:00:00,108XXXXXXXXXXXXXXXXX,note_9,Kimberley,South Africa
+TXN00033,CUST0026,7616.97,16/12/2023 06:00:00,Card,1.00,nokuthula,zwane,n****@example.co.za,14/09/2024 13:00:00,752XXXXXXXXXXXXXXXXX,note_26,Johannesburg,South Africa
+TXN00034,CUST0014,926.19,11/03/2024 04:00:00,Bank_Transfer,1.00,tshepo,maponya,t****@example.co.za,20/08/2024 16:00:00,982XXXXXXXXXXXXXXXXX,note_14,Bloemfontein,South Africa
+TXN00035,CUST0010,1203.42,14/06/2023 02:00:00,Mobile_Payment,0.00,themba,cele,t****@example.co.za,29/12/2022 16:00:00,430XXXXXXXXXXXXXXXXX,note_10,Pretoria,South Africa
+TXN00036,CUST0027,5170.23,07/08/2023 07:00:00,Card,0.00,palesa,gumede,p****@example.co.za,14/03/2021 11:00:00,143XXXXXXXXXXXXXXXXX,note_27,Johannesburg,South Africa
+TXN00037,CUST0021,8700.21,25/09/2023 11:00:00,Mobile_Payment,0.00,nomsa,nkosi,n****@example.co.za,24/09/2024 13:00:00,587XXXXXXXXXXXXXXXXX,note_21,Polokwane,South Africa
+TXN00038,CUST0013,589.33,08/12/2023 04:00:00,Bank_Transfer,0.00,mpho,ndlovu,m****@example.co.za,10/09/2020 13:00:00,348XXXXXXXXXXXXXXXXX,note_13,Bloemfontein,South Africa
+TXN00039,CUST0019,7576.61,20/12/2023 12:00:00,Mobile_Payment,0.00,jabu,gumede,j****@example.co.za,07/08/2020 02:00:00,367XXXXXXXXXXXXXXXXX,note_19,Pietermaritzburg,South Africa
+TXN00040,CUST0024,563.54,23/01/2024 05:00:00,Bank_Transfer,0.00,bongani,ngcobo,b****@example.co.za,15/09/2020 01:00:00,124XXXXXXXXXXXXXXXXX,note_24,Pietermaritzburg,South Africa
+TXN00041,CUST0017,1353.58,09/01/2023 02:00:00,Bank_Transfer,0.00,themba,ndlovu,t****@example.co.za,02/04/2024 16:00:00,159XXXXXXXXXXXXXXXXX,,Polokwane,South Africa
+TXN00042,CUST0014,8814.42,21/05/2023 04:00:00,Mobile_Payment,0.00,tshepo,maponya,t****@example.co.za,20/08/2024 16:00:00,982XXXXXXXXXXXXXXXXX,note_14,Bloemfontein,South Africa
+TXN00043,cust0003,337.25,08/02/2024 03:00:00,Cash,0.00,themba,mahlangu,t****@example.co.za,15/11/2021 13:00:00,030XXXXXXXXXXXXXXXXX,note_3,Bloemfontein,South Africa
+TXN00044,CUST0022,1625.86,01/04/2024 10:00:00,Card,0.00,lindiwe,ntuli,l****@example.co.za,30/10/2024 01:22:00,656XXXXXXXXXXXXXXXXX,note_22,Johannesburg,South Africa
+TXN00045,CUST0017,4109.51,31/10/2023 06:00:00,Cash,0.00,themba,ndlovu,t****@example.co.za,02/04/2024 16:00:00,159XXXXXXXXXXXXXXXXX,,Polokwane,South Africa
+TXN00046,CUST0026,9133.65,02/12/2024 02:00:00,Mobile_Payment,0.00,nokuthula,zwane,n****@example.co.za,14/09/2024 13:00:00,752XXXXXXXXXXXXXXXXX,note_26,Johannesburg,South Africa
+TXN00047,cust0003,1218.79,17/07/2024 12:00:00,Cash,0.00,themba,mahlangu,t****@example.co.za,15/11/2021 13:00:00,030XXXXXXXXXXXXXXXXX,note_3,Bloemfontein,South Africa
+TXN00048,CUST0015,9329.90,15/01/2024 16:00:00,Bank_Transfer,0.00,sipho,ngcobo,s****@example.co.za,31/01/2025 11:00:00,634XXXXXXXXXXXXXXXXX,note_15,Bloemfontein,South Africa
+TXN00049,CUST0016,7068.85,01/05/2025 08:00:00,Mobile_Payment,0.00,lebohang,zwane,l****@example.co.za,22/11/2023 06:00:00,501XXXXXXXXXXXXXXXXX,,Kimberley,South Africa
+TXN00050,CUST0026,9999999.00,22/02/2024 18:00:00,Mobile_Payment,1.00,nokuthula,zwane,n****@example.co.za,14/09/2024 13:00:00,752XXXXXXXXXXXXXXXXX,note_26,Johannesburg,South Africa
+TXN00051,CUST0007,-2000.00,08/04/2024 06:00:00,Cash,0.00,lebohang,gumede,l****@example.co.za,,315XXXXXXXXXXXXXXXXX,,Pretoria,South Africa
+TXN00052,CUST0012,1946.57,02/11/2024 19:46:28,Cash,1.00,jabu,maponya,j****@example.co.za,07/07/2023 14:00:00,425XXXXXXXXXXXXXXXXX,,Kimberley,South Africa
+TXN00053,CUST0027,744.61,30/06/2023 07:00:00,Mobile_Payment,0.00,palesa,gumede,p****@example.co.za,14/03/2021 11:00:00,143XXXXXXXXXXXXXXXXX,note_27,Johannesburg,South Africa
+TXN00054,CUST0010,9345.77,17/09/2024 10:00:00,Bank_Transfer,0.00,themba,cele,t****@example.co.za,29/12/2022 16:00:00,430XXXXXXXXXXXXXXXXX,note_10,Pretoria,South Africa
+TXN00055,CUST0026,75.52,29/09/2024 00:00:00,Bank_Transfer,1.00,nokuthula,zwane,n****@example.co.za,14/09/2024 13:00:00,752XXXXXXXXXXXXXXXXX,note_26,Johannesburg,South Africa
+TXN00056,CUST0026,5890.03,01/11/2025 02:00:00,Mobile_Payment,0.00,nokuthula,zwane,n****@example.co.za,14/09/2024 13:00:00,752XXXXXXXXXXXXXXXXX,note_26,Johannesburg,South Africa
+TXN00057,CUST0027,1528.52,30/12/2023 05:00:00,Mobile_Payment,0.00,palesa,gumede,p****@example.co.za,14/03/2021 11:00:00,143XXXXXXXXXXXXXXXXX,note_27,Johannesburg,South Africa
+TXN00058,CUST0011,3357.78,19/11/2024 01:00:00,Mobile_Payment,0.00,nokuthula,mahlangu,n****@example.co.za,21/03/2024 07:00:00,091XXXXXXXXXXXXXXXXX,note_11,Pietermaritzburg,South Africa
+TXN00059,CUST0014,9331.88,16/05/2024 02:00:00,Cash,0.00,tshepo,maponya,t****@example.co.za,20/08/2024 16:00:00,982XXXXXXXXXXXXXXXXX,note_14,Bloemfontein,South Africa
+TXN00060,CUST0022,2426.12,21/06/2023 13:00:00,Mobile_Payment,0.00,lindiwe,ntuli,l****@example.co.za,30/10/2024 01:22:00,656XXXXXXXXXXXXXXXXX,note_22,Johannesburg,South Africa
+TXN00061,CUST0007,8567.33,11/08/2024 20:00:00,Mobile_Payment,0.00,lebohang,gumede,l****@example.co.za,,315XXXXXXXXXXXXXXXXX,,Pretoria,South Africa
+TXN00062,CUST0001,3215.85,15/10/2023 02:00:00,Mobile_Payment,0.00,sipho,ngcobo,s****@example.co.za,22/12/2024 00:00:00,542XXXXXXXXXXXXXXXXX,note_1,Polokwane,South Africa
+TXN00063,CUST0022,9138.63,06/04/2023 11:00:00,Mobile_Payment,0.00,lindiwe,ntuli,l****@example.co.za,30/10/2024 01:22:00,656XXXXXXXXXXXXXXXXX,note_22,Johannesburg,South Africa
+TXN00064,CUST0012,9884.72,18/11/2023 02:00:00,Cash,0.00,jabu,maponya,j****@example.co.za,07/07/2023 14:00:00,425XXXXXXXXXXXXXXXXX,,Kimberley,South Africa
+TXN00065,CUST0015,9650.00,19/10/2024 14:00:00,Cash,0.00,sipho,ngcobo,s****@example.co.za,31/01/2025 11:00:00,634XXXXXXXXXXXXXXXXX,note_15,Bloemfontein,South Africa
+TXN00066,CUST0016,9655.27,12/08/2024 05:00:00,Bank_Transfer,0.00,lebohang,zwane,l****@example.co.za,22/11/2023 06:00:00,501XXXXXXXXXXXXXXXXX,,Kimberley,South Africa
+TXN00067,CUST0027,1048.63,18/04/2025 22:00:00,Mobile_Payment,0.00,palesa,gumede,p****@example.co.za,14/03/2021 11:00:00,143XXXXXXXXXXXXXXXXX,note_27,Johannesburg,South Africa
+TXN00068,cust0003,5283.21,04/12/2025 21:00:00,Mobile_Payment,0.00,themba,mahlangu,t****@example.co.za,15/11/2021 13:00:00,030XXXXXXXXXXXXXXXXX,note_3,Bloemfontein,South Africa
+TXN00069,CUST0000,7238.32,17/03/2025 17:00:00,Mobile_Payment,1.00,kabelo,dlamini,k****@example.co.za,20/02/2023 13:00:00,332XXXXXXXXXXXXXXXXX,note_0,Port Elizabeth,South Africa
+TXN00070,CUST0027,6565.07,19/05/2024 06:00:00,Cash,0.00,palesa,gumede,p****@example.co.za,14/03/2021 11:00:00,143XXXXXXXXXXXXXXXXX,note_27,Johannesburg,South Africa
+TXN00071,CUST0002,4721.43,04/06/2025 07:00:00,Bank_Transfer,0.00,bongani,motsepe,b****@example.co.za,29/06/2020 01:00:00,034XXXXXXXXXXXXXXXXX,note_2,Cape Town,South Africa
+TXN00072,CUST0010,6251.43,01/11/2024 11:00:00,Mobile_Payment,0.00,themba,cele,t****@example.co.za,29/12/2022 16:00:00,430XXXXXXXXXXXXXXXXX,note_10,Pretoria,South Africa
+TXN00073,CUST0020,849.14,14/11/2023 06:00:00,Bank_Transfer,0.00,kgomotso,msimang,k****@example.co.za,22/07/2023 06:46:00,727XXXXXXXXXXXXXXXXX,note_20,Kimberley,South Africa
+TXN00074,CUST0027,6759.86,19/08/2023 01:00:00,Mobile_Payment,0.00,palesa,gumede,p****@example.co.za,14/03/2021 11:00:00,143XXXXXXXXXXXXXXXXX,note_27,Johannesburg,South Africa
+TXN00075,cust0003,3200.78,16/11/2023 01:00:00,Mobile_Payment,0.00,themba,mahlangu,t****@example.co.za,15/11/2021 13:00:00,030XXXXXXXXXXXXXXXXX,note_3,Bloemfontein,South Africa
+TXN00076,CUST0027,5433.11,13/11/2024 00:00:00,Card,0.00,palesa,gumede,p****@example.co.za,14/03/2021 11:00:00,143XXXXXXXXXXXXXXXXX,note_27,Johannesburg,South Africa
+TXN00077,CUST0007,6330.05,30/07/2024 06:00:00,Bank_Transfer,0.00,lebohang,gumede,l****@example.co.za,,315XXXXXXXXXXXXXXXXX,,Pretoria,South Africa
+TXN00078,CUST0007,7480.33,24/11/2024 21:00:00,Mobile_Payment,0.00,lebohang,gumede,l****@example.co.za,,315XXXXXXXXXXXXXXXXX,,Pretoria,South Africa
+TXN00079,cust0003,7615.68,29/01/2025 11:00:00,Card,0.00,themba,mahlangu,t****@example.co.za,15/11/2021 13:00:00,030XXXXXXXXXXXXXXXXX,note_3,Bloemfontein,South Africa
+TXN00080,CUST0014,1705.33,23/12/2024 01:00:00,Bank_Transfer,0.00,tshepo,maponya,t****@example.co.za,20/08/2024 16:00:00,982XXXXXXXXXXXXXXXXX,note_14,Bloemfontein,South Africa
+TXN00081,CUST0028,338.03,05/05/2025 14:00:00,Bank_Transfer,0.00,themba,ngcobo,t****@example.co.za,03/04/2023 04:00:00,749XXXXXXXXXXXXXXXXX,note_28,Pretoria,South Africa
+TXN00082,CUST0025,608.39,07/04/2024 12:00:00,Bank_Transfer,0.00,lebohang,mabaso,l****@example.co.za,08/02/2021 06:00:00,716XXXXXXXXXXXXXXXXX,note_25,Polokwane,South Africa
+TXN00083,CUST0011,4335.33,16/10/2023 19:00:00,Cash,0.00,nokuthula,mahlangu,n****@example.co.za,21/03/2024 07:00:00,091XXXXXXXXXXXXXXXXX,note_11,Pietermaritzburg,South Africa
+TXN00084,CUST0016,4149.91,06/05/2023 14:00:00,Cash,0.00,lebohang,zwane,l****@example.co.za,22/11/2023 06:00:00,501XXXXXXXXXXXXXXXXX,,Kimberley,South Africa
+TXN00085,CUST0005,1791.94,18/06/2023 22:00:00,Mobile_Payment,0.00,mpho,ntuli,m****@example.co.za,09/01/2023 12:00:00,048XXXXXXXXXXXXXXXXX,note_5,Nelspruit,South Africa
+TXN00086,CUST0019,6847.19,27/04/2025 17:00:00,Mobile_Payment,0.00,jabu,gumede,j****@example.co.za,07/08/2020 02:00:00,367XXXXXXXXXXXXXXXXX,note_19,Pietermaritzburg,South Africa
+TXN00087,CUST0029,5852.41,19/10/2023 10:00:00,Cash,0.00,palesa,mthembu,p****@example.co.za,17/08/2020 03:45:00,947XXXXXXXXXXXXXXXXX,note_29,Johannesburg,South Africa
+TXN00088,CUST0014,6397.15,13/02/2025 00:00:00,Mobile_Payment,0.00,tshepo,maponya,t****@example.co.za,20/08/2024 16:00:00,982XXXXXXXXXXXXXXXXX,note_14,Bloemfontein,South Africa
+TXN00089,CUST0008,6685.07,21/12/2024 15:00:00,Mobile_Payment,0.00,nokuthula,motsepe,n****@example.co.za,25/10/2024 09:00:00,763XXXXXXXXXXXXXXXXX,note_8,Pretoria,South Africa
+TXN00090,CUST0028,2911.94,09/06/2023 05:00:00,Cash,0.00,themba,ngcobo,t****@example.co.za,03/04/2023 04:00:00,749XXXXXXXXXXXXXXXXX,note_28,Pretoria,South Africa
+TXN00091,CUST0002,4445.21,09/12/2023 15:00:00,Bank_Transfer,0.00,bongani,motsepe,b****@example.co.za,29/06/2020 01:00:00,034XXXXXXXXXXXXXXXXX,note_2,Cape Town,South Africa
+TXN00092,CUST0018,3026.58,05/03/2024 14:00:00,Mobile_Payment,0.00,mpho,ndlovu,m****@example.co.za,02/12/2021 04:55:00,957XXXXXXXXXXXXXXXXX,note_18,Pietermaritzburg,South Africa
+TXN00093,CUST0022,2538.48,07/06/2024 03:00:00,Bank_Transfer,0.00,lindiwe,ntuli,l****@example.co.za,30/10/2024 01:22:00,656XXXXXXXXXXXXXXXXX,note_22,Johannesburg,South Africa
+TXN00094,CUST0006,9993.77,09/08/2024 06:00:00,Mobile_Payment,0.00,mpho,mahlangu,m****@example.co.za,11/10/2024 21:00:00,911XXXXXXXXXXXXXXXXX,note_6,Pretoria,South Africa
+TXN00095,cust0003,2410.20,23/07/2024 14:00:00,Bank_Transfer,0.00,themba,mahlangu,t****@example.co.za,15/11/2021 13:00:00,030XXXXXXXXXXXXXXXXX,note_3,Bloemfontein,South Africa
+TXN00096,CUST0018,2993.93,21/04/2025 01:00:00,Bank_Transfer,0.00,mpho,ndlovu,m****@example.co.za,02/12/2021 04:55:00,957XXXXXXXXXXXXXXXXX,note_18,Pietermaritzburg,South Africa
+TXN00097,CUST0000,9780.55,25/11/2023 15:00:00,Mobile_Payment,0.00,kabelo,dlamini,k****@example.co.za,20/02/2023 13:00:00,332XXXXXXXXXXXXXXXXX,note_0,Port Elizabeth,South Africa
+TXN00098,CUST0008,130.57,09/12/2023 05:00:00,Card,0.00,nokuthula,motsepe,n****@example.co.za,25/10/2024 09:00:00,763XXXXXXXXXXXXXXXXX,note_8,Pretoria,South Africa
+TXN00099,CUST0029,6083.74,18/07/2023 05:00:00,Mobile_Payment,0.00,palesa,mthembu,p****@example.co.za,17/08/2020 03:45:00,947XXXXXXXXXXXXXXXXX,note_29,Johannesburg,South Africa
+TXN00100,CUST0026,9046.35,12/07/2023 21:00:00,Bank_Transfer,0.00,nokuthula,zwane,n****@example.co.za,14/09/2024 13:00:00,752XXXXXXXXXXXXXXXXX,note_26,Johannesburg,South Africa
+TXN00101,CUST0024,7998.66,18/04/2025 18:00:00,Bank_Transfer,0.00,bongani,ngcobo,b****@example.co.za,15/09/2020 01:00:00,124XXXXXXXXXXXXXXXXX,note_24,Pietermaritzburg,South Africa
+TXN00102,CUST0007,6384.35,02/06/2025 12:00:00,Bank_Transfer,0.00,lebohang,gumede,l****@example.co.za,,315XXXXXXXXXXXXXXXXX,,Pretoria,South Africa
+TXN00103,CUST0021,7567.99,04/12/2025 13:00:00,Cash,0.00,nomsa,nkosi,n****@example.co.za,24/09/2024 13:00:00,587XXXXXXXXXXXXXXXXX,note_21,Polokwane,South Africa
+TXN00104,CUST0020,1016.78,04/11/2025 22:00:00,Card,0.00,kgomotso,msimang,k****@example.co.za,22/07/2023 06:46:00,727XXXXXXXXXXXXXXXXX,note_20,Kimberley,South Africa
+TXN00105,CUST0009,7896.67,17/06/2023 02:00:00,Card,0.00,naledi,nkosi,n****@example.co.za,24/07/2022 03:00:00,108XXXXXXXXXXXXXXXXX,note_9,Kimberley,South Africa
+TXN00106,CUST0018,3680.37,28/09/2024 07:00:00,Cash,0.00,mpho,ndlovu,m****@example.co.za,02/12/2021 04:55:00,957XXXXXXXXXXXXXXXXX,note_18,Pietermaritzburg,South Africa
+TXN00107,CUST0002,9100.80,26/02/2025 12:00:00,Bank_Transfer,0.00,bongani,motsepe,b****@example.co.za,29/06/2020 01:00:00,034XXXXXXXXXXXXXXXXX,note_2,Cape Town,South Africa
+TXN00108,CUST0023,4184.26,11/08/2024 02:00:00,Cash,0.00,zanele,pule,z****@example.co.za,18/03/2023 23:49:00,417XXXXXXXXXXXXXXXXX,note_23,Polokwane,South Africa
+TXN00109,CUST0004,7875.80,01/03/2024 00:00:00,Bank_Transfer,0.00,zanele,sithole,z****@example.co.za,05/12/2021 23:00:00,871XXXXXXXXXXXXXXXXX,note_4,Durban,South Africa
+TXN00110,CUST0016,5042.86,04/01/2025 17:00:00,Bank_Transfer,0.00,lebohang,zwane,l****@example.co.za,22/11/2023 06:00:00,501XXXXXXXXXXXXXXXXX,,Kimberley,South Africa
+TXN00111,CUST0026,1687.22,23/09/2023 12:00:00,Mobile_Payment,0.00,nokuthula,zwane,n****@example.co.za,14/09/2024 13:00:00,752XXXXXXXXXXXXXXXXX,note_26,Johannesburg,South Africa
+TXN00112,cust0003,8074.56,22/11/2023 14:00:00,Bank_Transfer,1.00,themba,mahlangu,t****@example.co.za,15/11/2021 13:00:00,030XXXXXXXXXXXXXXXXX,note_3,Bloemfontein,South Africa
+TXN00113,CUST0025,1195.94,31/08/2024 12:00:00,Card,0.00,lebohang,mabaso,l****@example.co.za,08/02/2021 06:00:00,716XXXXXXXXXXXXXXXXX,note_25,Polokwane,South Africa
+TXN00114,CUST0004,7553.81,20/07/2024 08:00:00,Cash,0.00,zanele,sithole,z****@example.co.za,05/12/2021 23:00:00,871XXXXXXXXXXXXXXXXX,note_4,Durban,South Africa
+TXN00115,CUST0027,6779.42,01/04/2024 15:00:00,Mobile_Payment,0.00,palesa,gumede,p****@example.co.za,14/03/2021 11:00:00,143XXXXXXXXXXXXXXXXX,note_27,Johannesburg,South Africa
+TXN00116,cust0003,8465.16,09/12/2024 23:00:00,Bank_Transfer,0.00,themba,mahlangu,t****@example.co.za,15/11/2021 13:00:00,030XXXXXXXXXXXXXXXXX,note_3,Bloemfontein,South Africa
+TXN00117,CUST0002,7917.29,22/11/2024 07:00:00,Card,0.00,bongani,motsepe,b****@example.co.za,29/06/2020 01:00:00,034XXXXXXXXXXXXXXXXX,note_2,Cape Town,South Africa
+TXN00118,CUST0008,5388.89,13/08/2023 01:00:00,Mobile_Payment,0.00,nokuthula,motsepe,n****@example.co.za,25/10/2024 09:00:00,763XXXXXXXXXXXXXXXXX,note_8,Pretoria,South Africa
+TXN00119,CUST0011,6744.64,30/08/2023 00:00:00,Bank_Transfer,0.00,nokuthula,mahlangu,n****@example.co.za,21/03/2024 07:00:00,091XXXXXXXXXXXXXXXXX,note_11,Pietermaritzburg,South Africa
+TXN00120,CUST0018,3841.20,15/03/2025 16:00:00,Bank_Transfer,0.00,mpho,ndlovu,m****@example.co.za,02/12/2021 04:55:00,957XXXXXXXXXXXXXXXXX,note_18,Pietermaritzburg,South Africa
+TXN00121,cust0003,6764.62,28/08/2023 13:00:00,Mobile_Payment,0.00,themba,mahlangu,t****@example.co.za,15/11/2021 13:00:00,030XXXXXXXXXXXXXXXXX,note_3,Bloemfontein,South Africa
+TXN00122,CUST0000,6214.49,29/12/2024 12:00:00,Bank_Transfer,0.00,kabelo,dlamini,k****@example.co.za,20/02/2023 13:00:00,332XXXXXXXXXXXXXXXXX,note_0,Port Elizabeth,South Africa
+TXN00123,CUST0029,6120.32,24/02/2024 07:00:00,Card,0.00,palesa,mthembu,p****@example.co.za,17/08/2020 03:45:00,947XXXXXXXXXXXXXXXXX,note_29,Johannesburg,South Africa
+TXN00124,CUST0020,8247.36,03/07/2024 05:00:00,Bank_Transfer,0.00,kgomotso,msimang,k****@example.co.za,22/07/2023 06:46:00,727XXXXXXXXXXXXXXXXX,note_20,Kimberley,South Africa
+TXN00125,CUST0020,4112.54,25/08/2023 22:00:00,Cash,0.00,kgomotso,msimang,k****@example.co.za,22/07/2023 06:46:00,727XXXXXXXXXXXXXXXXX,note_20,Kimberley,South Africa
+TXN00126,CUST0001,9465.30,16/08/2024 19:00:00,Bank_Transfer,0.00,sipho,ngcobo,s****@example.co.za,22/12/2024 00:00:00,542XXXXXXXXXXXXXXXXX,note_1,Polokwane,South Africa
+TXN00127,CUST0015,1205.40,15/02/2024 11:00:00,Cash,0.00,sipho,ngcobo,s****@example.co.za,31/01/2025 11:00:00,634XXXXXXXXXXXXXXXXX,note_15,Bloemfontein,South Africa
+TXN00128,CUST0028,5398.59,12/07/2023 00:00:00,Mobile_Payment,0.00,themba,ngcobo,t****@example.co.za,03/04/2023 04:00:00,749XXXXXXXXXXXXXXXXX,note_28,Pretoria,South Africa
+TXN00129,CUST0014,3741.56,02/09/2025 20:00:00,Mobile_Payment,0.00,tshepo,maponya,t****@example.co.za,20/08/2024 16:00:00,982XXXXXXXXXXXXXXXXX,note_14,Bloemfontein,South Africa
+TXN00130,CUST0018,7435.58,15/10/2023 18:00:00,Cash,0.00,mpho,ndlovu,m****@example.co.za,02/12/2021 04:55:00,957XXXXXXXXXXXXXXXXX,note_18,Pietermaritzburg,South Africa
+TXN00131,CUST0028,4178.10,07/07/2023 08:00:00,Card,0.00,themba,ngcobo,t****@example.co.za,03/04/2023 04:00:00,749XXXXXXXXXXXXXXXXX,note_28,Pretoria,South Africa
+TXN00132,CUST0026,4919.00,14/09/2023 12:00:00,Mobile_Payment,0.00,nokuthula,zwane,n****@example.co.za,14/09/2024 13:00:00,752XXXXXXXXXXXXXXXXX,note_26,Johannesburg,South Africa
+TXN00133,cust0003,9517.64,17/07/2023 02:00:00,Card,0.00,themba,mahlangu,t****@example.co.za,15/11/2021 13:00:00,030XXXXXXXXXXXXXXXXX,note_3,Bloemfontein,South Africa
+TXN00134,CUST0022,3736.77,28/04/2024 21:00:00,Mobile_Payment,1.00,lindiwe,ntuli,l****@example.co.za,30/10/2024 01:22:00,656XXXXXXXXXXXXXXXXX,note_22,Johannesburg,South Africa
+TXN00135,CUST0014,9508.02,13/06/2023 04:00:00,Bank_Transfer,0.00,tshepo,maponya,t****@example.co.za,20/08/2024 16:00:00,982XXXXXXXXXXXXXXXXX,note_14,Bloemfontein,South Africa
+TXN00136,cust0003,9810.23,14/03/2024 20:00:00,Bank_Transfer,0.00,themba,mahlangu,t****@example.co.za,15/11/2021 13:00:00,030XXXXXXXXXXXXXXXXX,note_3,Bloemfontein,South Africa
+TXN00137,CUST0017,9021.88,14/02/2024 10:00:00,Bank_Transfer,0.00,themba,ndlovu,t****@example.co.za,02/04/2024 16:00:00,159XXXXXXXXXXXXXXXXX,,Polokwane,South Africa
+TXN00138,CUST0001,4011.49,18/10/2023 21:00:00,Cash,0.00,sipho,ngcobo,s****@example.co.za,22/12/2024 00:00:00,542XXXXXXXXXXXXXXXXX,note_1,Polokwane,South Africa
+TXN00139,cust0003,1265.49,11/10/2024 09:00:00,Mobile_Payment,1.00,themba,mahlangu,t****@example.co.za,15/11/2021 13:00:00,030XXXXXXXXXXXXXXXXX,note_3,Bloemfontein,South Africa
+TXN00140,CUST0002,6644.55,28/09/2023 22:00:00,Card,1.00,bongani,motsepe,b****@example.co.za,29/06/2020 01:00:00,034XXXXXXXXXXXXXXXXX,note_2,Cape Town,South Africa
+TXN00141,CUST0001,7878.61,25/02/2025 15:00:00,Cash,0.00,sipho,ngcobo,s****@example.co.za,22/12/2024 00:00:00,542XXXXXXXXXXXXXXXXX,note_1,Polokwane,South Africa
+TXN00142,CUST0004,7880.43,14/01/2025 12:00:00,Cash,0.00,zanele,sithole,z****@example.co.za,05/12/2021 23:00:00,871XXXXXXXXXXXXXXXXX,note_4,Durban,South Africa
+TXN00143,CUST0002,8306.69,05/05/2024 04:00:00,Cash,0.00,bongani,motsepe,b****@example.co.za,29/06/2020 01:00:00,034XXXXXXXXXXXXXXXXX,note_2,Cape Town,South Africa
+TXN00144,CUST0018,2198.72,21/04/2025 09:00:00,Cash,0.00,mpho,ndlovu,m****@example.co.za,02/12/2021 04:55:00,957XXXXXXXXXXXXXXXXX,note_18,Pietermaritzburg,South Africa
+TXN00145,CUST0010,7754.97,07/09/2024 13:00:00,Card,0.00,themba,cele,t****@example.co.za,29/12/2022 16:00:00,430XXXXXXXXXXXXXXXXX,note_10,Pretoria,South Africa
+TXN00146,CUST0008,8591.14,19/06/2024 13:00:00,Cash,0.00,nokuthula,motsepe,n****@example.co.za,25/10/2024 09:00:00,763XXXXXXXXXXXXXXXXX,note_8,Pretoria,South Africa
+TXN00147,CUST0004,5425.14,30/12/2023 23:00:00,Cash,0.00,zanele,sithole,z****@example.co.za,05/12/2021 23:00:00,871XXXXXXXXXXXXXXXXX,note_4,Durban,South Africa
+TXN00148,cust0003,6627.52,16/06/2024 11:00:00,Card,0.00,themba,mahlangu,t****@example.co.za,15/11/2021 13:00:00,030XXXXXXXXXXXXXXXXX,note_3,Bloemfontein,South Africa
+TXN00149,CUST0004,197.86,14/11/2024 08:00:00,Cash,0.00,zanele,sithole,z****@example.co.za,05/12/2021 23:00:00,871XXXXXXXXXXXXXXXXX,note_4,Durban,South Africa
+TXN00150,CUST0018,3271.53,16/11/2024 08:00:00,Cash,0.00,mpho,ndlovu,m****@example.co.za,02/12/2021 04:55:00,957XXXXXXXXXXXXXXXXX,note_18,Pietermaritzburg,South Africa
+TXN00151,CUST0008,571.37,05/02/2024 23:00:00,Mobile_Payment,0.00,nokuthula,motsepe,n****@example.co.za,25/10/2024 09:00:00,763XXXXXXXXXXXXXXXXX,note_8,Pretoria,South Africa
+TXN00152,CUST0016,1180.81,10/04/2024 00:00:00,Card,0.00,lebohang,zwane,l****@example.co.za,22/11/2023 06:00:00,501XXXXXXXXXXXXXXXXX,,Kimberley,South Africa
+TXN00153,CUST0015,4510.34,17/09/2024 06:00:00,Bank_Transfer,0.00,sipho,ngcobo,s****@example.co.za,31/01/2025 11:00:00,634XXXXXXXXXXXXXXXXX,note_15,Bloemfontein,South Africa
+TXN00154,CUST0016,5956.98,04/03/2025 18:00:00,Mobile_Payment,1.00,lebohang,zwane,l****@example.co.za,22/11/2023 06:00:00,501XXXXXXXXXXXXXXXXX,,Kimberley,South Africa
+TXN00155,CUST0016,2254.42,25/03/2025 08:00:00,Card,0.00,lebohang,zwane,l****@example.co.za,22/11/2023 06:00:00,501XXXXXXXXXXXXXXXXX,,Kimberley,South Africa
+TXN00156,CUST0023,7843.11,15/04/2025 18:00:00,Bank_Transfer,0.00,zanele,pule,z****@example.co.za,18/03/2023 23:49:00,417XXXXXXXXXXXXXXXXX,note_23,Polokwane,South Africa
+TXN00157,CUST0014,6451.24,01/12/2024 14:00:00,Card,0.00,tshepo,maponya,t****@example.co.za,20/08/2024 16:00:00,982XXXXXXXXXXXXXXXXX,note_14,Bloemfontein,South Africa
+TXN00158,CUST0001,9985.94,24/02/2024 05:00:00,Mobile_Payment,0.00,sipho,ngcobo,s****@example.co.za,22/12/2024 00:00:00,542XXXXXXXXXXXXXXXXX,note_1,Polokwane,South Africa
+TXN00159,CUST0013,6876.67,27/10/2023 06:00:00,Mobile_Payment,0.00,mpho,ndlovu,m****@example.co.za,10/09/2020 13:00:00,348XXXXXXXXXXXXXXXXX,note_13,Bloemfontein,South Africa
+TXN00160,CUST0022,9101.52,04/06/2024 16:00:00,Card,0.00,lindiwe,ntuli,l****@example.co.za,30/10/2024 01:22:00,656XXXXXXXXXXXXXXXXX,note_22,Johannesburg,South Africa
+TXN00161,CUST0028,853.87,17/12/2024 18:00:00,Cash,0.00,themba,ngcobo,t****@example.co.za,03/04/2023 04:00:00,749XXXXXXXXXXXXXXXXX,note_28,Pretoria,South Africa
+TXN00162,CUST0002,1305.61,10/06/2023 05:00:00,Bank_Transfer,0.00,bongani,motsepe,b****@example.co.za,29/06/2020 01:00:00,034XXXXXXXXXXXXXXXXX,note_2,Cape Town,South Africa
+TXN00163,CUST0012,9946.55,02/05/2025 13:00:00,Bank_Transfer,0.00,jabu,maponya,j****@example.co.za,07/07/2023 14:00:00,425XXXXXXXXXXXXXXXXX,,Kimberley,South Africa
+TXN00164,CUST0014,5080.23,31/03/2025 10:00:00,Mobile_Payment,0.00,tshepo,maponya,t****@example.co.za,20/08/2024 16:00:00,982XXXXXXXXXXXXXXXXX,note_14,Bloemfontein,South Africa
+TXN00165,cust0003,7941.31,23/09/2023 12:00:00,Card,0.00,themba,mahlangu,t****@example.co.za,15/11/2021 13:00:00,030XXXXXXXXXXXXXXXXX,note_3,Bloemfontein,South Africa
+TXN00166,CUST0027,6564.39,04/09/2024 20:00:00,Cash,0.00,palesa,gumede,p****@example.co.za,14/03/2021 11:00:00,143XXXXXXXXXXXXXXXXX,note_27,Johannesburg,South Africa
+TXN00167,CUST0013,4542.97,23/07/2023 15:00:00,Cash,0.00,mpho,ndlovu,m****@example.co.za,10/09/2020 13:00:00,348XXXXXXXXXXXXXXXXX,note_13,Bloemfontein,South Africa
+TXN00168,CUST0013,3422.37,08/10/2024 16:00:00,Mobile_Payment,0.00,mpho,ndlovu,m****@example.co.za,10/09/2020 13:00:00,348XXXXXXXXXXXXXXXXX,note_13,Bloemfontein,South Africa
+TXN00169,CUST0012,4189.10,24/02/2024 20:00:00,Card,0.00,jabu,maponya,j****@example.co.za,07/07/2023 14:00:00,425XXXXXXXXXXXXXXXXX,,Kimberley,South Africa
+TXN00170,CUST0010,4296.30,11/02/2023 18:00:00,Bank_Transfer,0.00,themba,cele,t****@example.co.za,29/12/2022 16:00:00,430XXXXXXXXXXXXXXXXX,note_10,Pretoria,South Africa
+TXN00171,CUST0011,9538.25,25/08/2023 10:00:00,Mobile_Payment,0.00,nokuthula,mahlangu,n****@example.co.za,21/03/2024 07:00:00,091XXXXXXXXXXXXXXXXX,note_11,Pietermaritzburg,South Africa
+TXN00172,CUST0002,957.69,12/05/2023 11:00:00,Card,0.00,bongani,motsepe,b****@example.co.za,29/06/2020 01:00:00,034XXXXXXXXXXXXXXXXX,note_2,Cape Town,South Africa
+TXN00173,CUST0002,4347.17,27/06/2023 12:00:00,Bank_Transfer,0.00,bongani,motsepe,b****@example.co.za,29/06/2020 01:00:00,034XXXXXXXXXXXXXXXXX,note_2,Cape Town,South Africa
+TXN00174,CUST0025,1344.65,23/12/2024 01:00:00,Card,0.00,lebohang,mabaso,l****@example.co.za,08/02/2021 06:00:00,716XXXXXXXXXXXXXXXXX,note_25,Polokwane,South Africa
+TXN00175,CUST0018,9568.42,01/02/2025 20:00:00,Bank_Transfer,0.00,mpho,ndlovu,m****@example.co.za,02/12/2021 04:55:00,957XXXXXXXXXXXXXXXXX,note_18,Pietermaritzburg,South Africa
+TXN00176,CUST0021,1266.20,11/08/2024 18:00:00,Bank_Transfer,0.00,nomsa,nkosi,n****@example.co.za,24/09/2024 13:00:00,587XXXXXXXXXXXXXXXXX,note_21,Polokwane,South Africa
+TXN00177,CUST0027,6670.14,18/02/2025 04:00:00,Mobile_Payment,0.00,palesa,gumede,p****@example.co.za,14/03/2021 11:00:00,143XXXXXXXXXXXXXXXXX,note_27,Johannesburg,South Africa
+TXN00178,CUST0027,9162.64,31/10/2024 22:00:00,Card,1.00,palesa,gumede,p****@example.co.za,14/03/2021 11:00:00,143XXXXXXXXXXXXXXXXX,note_27,Johannesburg,South Africa
+TXN00179,cust0003,2911.91,05/02/2024 11:00:00,Bank_Transfer,0.00,themba,mahlangu,t****@example.co.za,15/11/2021 13:00:00,030XXXXXXXXXXXXXXXXX,note_3,Bloemfontein,South Africa
+TXN00180,CUST0011,1080.83,11/10/2023 01:00:00,Cash,0.00,nokuthula,mahlangu,n****@example.co.za,21/03/2024 07:00:00,091XXXXXXXXXXXXXXXXX,note_11,Pietermaritzburg,South Africa
+TXN00181,CUST0004,6584.53,02/09/2025 08:00:00,Cash,0.00,zanele,sithole,z****@example.co.za,05/12/2021 23:00:00,871XXXXXXXXXXXXXXXXX,note_4,Durban,South Africa
+TXN00182,CUST0027,1126.77,05/10/2025 09:00:00,Bank_Transfer,1.00,palesa,gumede,p****@example.co.za,14/03/2021 11:00:00,143XXXXXXXXXXXXXXXXX,note_27,Johannesburg,South Africa
+TXN00183,cust0003,7637.93,09/08/2024 16:00:00,Cash,0.00,themba,mahlangu,t****@example.co.za,15/11/2021 13:00:00,030XXXXXXXXXXXXXXXXX,note_3,Bloemfontein,South Africa
+TXN00184,CUST0025,4319.67,11/09/2024 17:00:00,Card,0.00,lebohang,mabaso,l****@example.co.za,08/02/2021 06:00:00,716XXXXXXXXXXXXXXXXX,note_25,Polokwane,South Africa
+TXN00185,CUST0019,9294.39,04/12/2024 01:00:00,Bank_Transfer,0.00,jabu,gumede,j****@example.co.za,07/08/2020 02:00:00,367XXXXXXXXXXXXXXXXX,note_19,Pietermaritzburg,South Africa
+TXN00186,CUST0000,1845.14,16/04/2024 01:00:00,Bank_Transfer,0.00,kabelo,dlamini,k****@example.co.za,20/02/2023 13:00:00,332XXXXXXXXXXXXXXXXX,note_0,Port Elizabeth,South Africa
+TXN00187,CUST0029,3431.26,31/01/2025 14:00:00,Card,0.00,palesa,mthembu,p****@example.co.za,17/08/2020 03:45:00,947XXXXXXXXXXXXXXXXX,note_29,Johannesburg,South Africa
+TXN00188,CUST0005,8705.13,08/07/2023 20:00:00,Mobile_Payment,0.00,mpho,ntuli,m****@example.co.za,09/01/2023 12:00:00,048XXXXXXXXXXXXXXXXX,note_5,Nelspruit,South Africa
+TXN00189,CUST0002,1461.65,08/11/2023 18:00:00,Card,0.00,bongani,motsepe,b****@example.co.za,29/06/2020 01:00:00,034XXXXXXXXXXXXXXXXX,note_2,Cape Town,South Africa
+TXN00190,CUST0002,7473.81,27/02/2025 16:00:00,Cash,0.00,bongani,motsepe,b****@example.co.za,29/06/2020 01:00:00,034XXXXXXXXXXXXXXXXX,note_2,Cape Town,South Africa
+TXN00191,CUST0012,4227.33,03/10/2025 09:00:00,Bank_Transfer,0.00,jabu,maponya,j****@example.co.za,07/07/2023 14:00:00,425XXXXXXXXXXXXXXXXX,,Kimberley,South Africa
+TXN00192,CUST0005,3732.03,22/01/2024 02:00:00,Bank_Transfer,0.00,mpho,ntuli,m****@example.co.za,09/01/2023 12:00:00,048XXXXXXXXXXXXXXXXX,note_5,Nelspruit,South Africa
+TXN00193,CUST0024,9417.00,01/04/2024 03:00:00,Card,0.00,bongani,ngcobo,b****@example.co.za,15/09/2020 01:00:00,124XXXXXXXXXXXXXXXXX,note_24,Pietermaritzburg,South Africa
+TXN00194,CUST0028,573.46,19/12/2024 16:00:00,Cash,0.00,themba,ngcobo,t****@example.co.za,03/04/2023 04:00:00,749XXXXXXXXXXXXXXXXX,note_28,Pretoria,South Africa
+TXN00195,CUST0024,6197.49,12/01/2023 17:00:00,Card,0.00,bongani,ngcobo,b****@example.co.za,15/09/2020 01:00:00,124XXXXXXXXXXXXXXXXX,note_24,Pietermaritzburg,South Africa
+TXN00196,CUST0008,4458.97,28/04/2025 18:00:00,Mobile_Payment,0.00,nokuthula,motsepe,n****@example.co.za,25/10/2024 09:00:00,763XXXXXXXXXXXXXXXXX,note_8,Pretoria,South Africa
+TXN00197,CUST0015,6090.41,13/05/2024 12:00:00,Mobile_Payment,0.00,sipho,ngcobo,s****@example.co.za,31/01/2025 11:00:00,634XXXXXXXXXXXXXXXXX,note_15,Bloemfontein,South Africa
+TXN00198,CUST0008,2194.91,11/10/2024 08:00:00,Card,0.00,nokuthula,motsepe,n****@example.co.za,25/10/2024 09:00:00,763XXXXXXXXXXXXXXXXX,note_8,Pretoria,South Africa
+TXN00199,CUST0011,4327.64,23/04/2024 17:00:00,Bank_Transfer,0.00,nokuthula,mahlangu,n****@example.co.za,21/03/2024 07:00:00,091XXXXXXXXXXXXXXXXX,note_11,Pietermaritzburg,South Africa
